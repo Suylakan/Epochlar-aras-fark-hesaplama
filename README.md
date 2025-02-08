@@ -1,5 +1,3 @@
-//ENG These codes made for my homework so continuing part will be fully Turkish.
-
 # Epoch Zamanı Fark Hesaplayıcı
 
 Bu proje, iki farklı tarih ve saat bilgisi girildiğinde, bu tarihler arasındaki epoch zamanını hesaplayan bir C programını içerir. Epoch zamanı, 1 Ocak 1970 UTC tarihinden itibaren geçen saniye sayısı olarak hesaplanır. Bu program, kullanıcıdan tarih ve saat bilgilerini alır, bu bilgileri epoch zamanına dönüştürür ve iki epoch zamanı arasındaki farkı saniye cinsinden hesaplayarak ekrana yazdırır.
